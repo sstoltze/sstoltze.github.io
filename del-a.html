@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Simon Stoltze">
+    <!-- Undersøg en theme-switcher ala http://www.math.tifr.res.in/ -->
+    <link rel="stylesheet" type="text/css" href="stil.css" />
+    <link rel="stylesheet" type="text/css" title="white background" href="baggrund-hvid.css" />
+    <link rel="alternate stylesheet" type="text/css" title="grey background" href="baggrund-graa.css" />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    
+    <title>Simon Stoltze</title>
+    
+    <script type="text/javascript">
+      //<![CDATA[
+function email_link(email) {
+return ("<a href=mailto:"+email+">"+email+"<\/a>")}
+
+function make_email(user, domain) {
+return (user + "@" + domain)}
+//]]>
+    </script>
+  </head>
+  
+  <body>
+    <header>
+      <!-- <nav>
+           <ul>
+             <li><a href="./index.html">Home</a></li>
+             <li><a href="./studie.html">Education</a></li>
+             <li><a href="./links.html">Links</a></li>
+           </ul>
+      </nav>-->
+      <h2><a href="./index.html" style="color: #000000;">Simon Stoltze</a></h2>
+      
+      Ph.D. student<br />
+      <b>Address:</b> Institut for Matematik, Aarhus University, Ny Munkegade 118, DK-8000 Aarhus C, Denmark<br />
+      <b>Office:</b> <a href="http://www.au.dk/om/organisation/find-au/bygningskort/?b=1530">1530</a>.420 (A4.20)<br />
+      <b>Phone:</b> +45 87 15 57 09<br />
+      <b>Mail:</b>
+      <script type="text/javascript">
+        //<![CDATA[
+document.writeln(email_link(make_email("sstoltze", "math.au.dk")))
+//]]>
+      </script><br />
+      <br /><a href="http://pure.au.dk/portal/da/sstoltze@math.au.dk">PURE - AU research</a><br />
+      <br /><a href="./sstoltze-cv.pdf">Curriculum Vitæ</a><br /><br />
+    </header>
+    
+
+    <h2>Progress report</h2>
+    The following is a copy of my progress report, together with a collection of unpublished documents that I need to reference.<br /><br />
+    <a href="./sstoltze-progress-report.pdf">Approximations to the loop space of flag manifolds</a> - The actual progress report.<br /><br />
+    <a href="./errata.pdf">Errata</a> - A correction of some minor errors.<br /><br />
+    <a href="./del-a/bokstedt.pdf">bokstedt.pdf</a> - A pdf document written by my advisor, containing some results on a special case of the spaces I have been studying.<br /><br />
+    <a href="./del-a/rand.sage">rand.sage</a> - Sage code for computing the spectral sequence of the space X<sub>3,3</sub>.<br /><br />
+    <a href="./del-a/orientation.sage">orientation.sage</a> - Sage code for computing signs in a boundary map.
+  </body>
+</html>
