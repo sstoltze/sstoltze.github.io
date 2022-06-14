@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <meta name="author" content="Simon Stoltze">
+    <meta name="author" content="Sarah Stoltze">
     <!-- Undersøg en theme-switcher ala http://www.math.tifr.res.in/ -->
     <link rel="stylesheet" type="text/css" href="stil.css" />
     <link rel="stylesheet" type="text/css" title="white background" href="baggrund-hvid.css" />
     <link rel="alternate stylesheet" type="text/css" title="grey background" href="baggrund-graa.css" />
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-    
-    <title>Simon Stoltze</title>
-    
+
+    <title>Sarah Stoltze</title>
+
     <script type="text/javascript">
       //<![CDATA[
 function email_link(email) {
@@ -21,7 +21,7 @@ return (user + "@" + domain)}
 //]]>
     </script>
   </head>
-  
+
   <body>
     <header>
       <!-- <nav>
@@ -31,8 +31,8 @@ return (user + "@" + domain)}
              <li><a href="./links.html">Links</a></li>
            </ul>
       </nav>-->
-      <h2><a href="./index.html" style="color: #000000;">Simon Stoltze</a></h2>
-      
+      <h2><a href="./index.html" style="color: #000000;">Sarah Stoltze</a></h2>
+
       Ph.D. student<br />
       <b>Address:</b> Institut for Matematik, Aarhus University, Ny Munkegade 118, DK-8000 Aarhus C, Denmark<br />
       <b>Office:</b> <a href="http://www.au.dk/om/organisation/find-au/bygningskort/?b=1530">1530</a>.420 (A4.20)<br />
@@ -46,7 +46,7 @@ document.writeln(email_link(make_email("sstoltze", "math.au.dk")))
       <br /><a href="http://pure.au.dk/portal/da/sstoltze@math.au.dk">PURE - AU research</a><br />
       <br /><a href="./sstoltze-cv.pdf">Curriculum Vitæ</a><br /><br />
     </header>
-    
+
 
     <h2>Setting up a web page</h2>
     This is a guide intended for people looking to set up a web page on the servers at Institut for Matematik, Aarhus University.<br />
@@ -58,7 +58,7 @@ document.writeln(email_link(make_email("sstoltze", "math.au.dk")))
     Any additional pages, images and files also go in the 'public_html' folder or a subfolder.<br /><br />
 
     Start a terminal and type the following:<br /><br />
-    
+
     <div class="box">
       <kbd>
         cd /home/<br />
@@ -72,18 +72,18 @@ document.writeln(email_link(make_email("sstoltze", "math.au.dk")))
       </kbd>
     </div>
     <br />
-    
+
     These commands allow other people to access your web page. Without them, you will get a page saying you do not have permission to access the link when visiting http://home.imf.au.dk/<strong>username</strong>.<br /><br />
-    
+
     The page should now be ready to go. If you add other pages or files, remember to run:<br /><br />
-    
+
     <div id="box">
       <kbd>
         cd /home/<strong>username</strong>/public_html<br />
         chmod o+r name-of-file<br />
       </kbd>
     </div><br />
-    
+
     in a terminal, to allow other people access to them.<br /><br />
 
     If you need/want to use utf-8 encoding (or some other type of encoding), you need to tell this to the server. This is done by adding a file calles .htaccess in the public_html folder with the single line <br /><br />
@@ -93,20 +93,20 @@ document.writeln(email_link(make_email("sstoltze", "math.au.dk")))
       </kbd>
     </div><br />
     and making it readable as before. This will tell the server that your .html files should be encoded with utf-8.
-    
-    
+
+
     <a href="./imf-setup.sh">Here</a> is a shell-script to get you started. Download it, open a terminal, navigate to the download directory (often the desktop) and run:<br /><br />
-    
+
     <div class="box">
       <kbd>
         sh imf-setup.sh <strong>username</strong>
       </kbd>
     </div>
     <br />
-    
+
     This will create 'public_html', an empty file named 'index.html' and set all permissions, including using utf-8 for .html files.<br />
     As far as possible, the script should only do what is necessary, so if you already have a 'public_html' folder or an 'index.html' page it will only change permissions.<br /><br />
-    
+
     If you need further help, feel free to send me an email or find me in my office.
   </body>
 </html>

@@ -15,7 +15,7 @@ echo '<!DOCTYPE html>
 <html>
   <head>
   <meta charset="utf-8" />
-  <meta name="author" content="Simon Stoltze" />
+  <meta name="author" content="Sarah Stoltze" />
     <style>
         h3     { text-align: center; font-size: 18pt; line-height: 1.5em; }
         h2     { text-align: center; font-size: 24pt; line-height: 2.5em; }
