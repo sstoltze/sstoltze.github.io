@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/950.101cb000.chunk.js","mappings":"uKAKA,EAFmB,kBAAM,uBAAN,C","sources":["components/LightStyle.js"],"sourcesContent":["import * as React from 'react';\nimport '../lightmode.css';\n\nconst LightStyle = () => <></>;\n\nexport default LightStyle;\n"],"names":[],"sourceRoot":""}
