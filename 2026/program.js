@@ -99,31 +99,53 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "",
+    "desc": "Anything you always to ask an author about, but didn't have the chance or the courage, or three of them sitting ready just to answer your specific question? Now is the chance, at the ASK ME ANYTHING, you can literally ask the three distinguished guests anything - they might not answer though. ",
+    "format": "Panel",
     "id": "Ask me anything with the Guest of Honours",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
+      },
+      {
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
+      },
+      {
+        "id": "Chris Beckett",
+        "name": "Chris Beckett"
+      }
+    ],
     "tags": [],
     "time": "15:00",
     "title": "Ask me anything with the Guest of Honours"
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Oplæsning ved science fiction forfatter Nanna Grønbech Petersen & musik af bÆnji skabt specifikt til teksterne.",
     "format": "",
-    "id": " N. B. - Epik & musik. ",
+    "id": "N. B. - Epik & musik.",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Nanna Grønbech Petersen",
+        "name": "Nanna Grønbech Petersen"
+      },
+      {
+        "id": "bÆnji",
+        "name": "bÆnji"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": " N. B. - Epik & musik. "
+    "title": "N. B. - Epik & musik."
   },
   {
     "date": "2026-06-07",
@@ -169,10 +191,6 @@
       {
         "id": "Jasmin",
         "name": "Jasmin"
-      },
-      {
-        "id": "...",
-        "name": "..."
       }
     ],
     "tags": [],
@@ -188,47 +206,48 @@
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [
-      {
-        "id": "Chris Beckett",
-        "name": "Chris Beckett"
-      },
-      {
-        "id": "Flemming Rasch",
-        "name": "Flemming Rasch"
-      }
-    ],
+    "people": [],
     "tags": [],
     "time": "13:00",
     "title": "Interview with Chris Beckett"
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "State of the Union: European Fantastical Litterature",
+    "desc": "What is Lunar Punk? Lunar Punk is an ecofeminist subgenre of science fiction. It is based on cyclical narrative forms – the understanding that all life on Earth is intertwined, and should be recognized for their importance in the Big Web of Being. Where Solarpunk romanticizes solar power and solar energy, Lunar Punk romanticizes the power of imagination and imaginary energy (lunargy). Our own inner lunatic ability (lunability) to shine our light in the dark, to think up other realities and future possibilities, and share them with each other, until they become our new reality. Shekufe Heiberg will go deep into the speculative and utopian world of Lunar Punk and explain how it started and where it’s going.",
+    "format": "Foredrag",
+    "id": "Lunarpunk",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Shekufe Heiberg",
+        "name": "Shekufe Heiberg"
+      }
+    ],
     "tags": [],
     "time": "13:00",
-    "title": "State of the Union: European Fantastical Litterature"
+    "title": "Lunarpunk"
   },
   {
     "date": "2026-06-07",
     "desc": "",
-    "format": "",
-    "id": "kaffe med en Sarah Pinsker",
+    "format": "Workshop",
+    "id": "Workshop: Reading Journals",
     "loc": [
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sidsel",
+        "name": "Sidsel"
+      }
+    ],
     "tags": [],
     "time": "13:00",
-    "title": "kaffe med en Sarah Pinsker"
+    "title": "Workshop: Reading Journals"
   },
   {
     "date": "2026-06-07",
@@ -246,28 +265,44 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "Foredrag",
-    "id": "Lunarpunk",
+    "desc": "What is going on in European Fantastical literature. A panel of Europeans will sit down and discuss how genre literature is faring in todays Europe",
+    "format": "Panel",
+    "id": "State of the Union: European Fantastical Litterature",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [
       {
-        "id": "Shekufe Heiberg",
-        "name": "Shekufe Heiberg"
+        "id": "svensker",
+        "name": "svensker"
+      },
+      {
+        "id": "dansker",
+        "name": "dansker"
+      },
+      {
+        "id": "Ian Sales",
+        "name": "Ian Sales"
+      },
+      {
+        "id": "Eugenia Triantafyllou (græker)",
+        "name": "Eugenia Triantafyllou (græker)"
+      },
+      {
+        "id": "Thomas Recktenwald (tysker) ...",
+        "name": "Thomas Recktenwald (tysker) ..."
       }
     ],
     "tags": [],
     "time": "12:00",
-    "title": "Lunarpunk"
+    "title": "State of the Union: European Fantastical Litterature"
   },
   {
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "Coffee with Eugenia Triantafyllou",
+    "id": "Coffee with Sarah Pinsker",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -275,12 +310,12 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "Coffee with Eugenia Triantafyllou"
+    "title": "Coffee with Sarah Pinsker"
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "",
+    "desc": "Et panel om vores kærlighed til genren science fiction, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",
+    "format": "Panel",
     "id": "We ❤️ Science fiction",
     "loc": [
       "Store sal (3. sal)"
@@ -293,7 +328,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Hvis I mangler punkter til programmet og kunne være interesserede, så kan jeg godt lave et lille oplæg om kinesisk fantasy, som er ved at blive mere populært. Især kinesisk queer fantasy, den såkaldte danmei, kan nu købes herhjemme i engelsk oversættelse, og jeg har set at bibliotekerne også har købt lidt ind. Det virker dog stadig til at være en genre,som ikke er særlig kendt i Danmark,men jeg har efterhånden set og læst en hel del af det og har noget baggrundsviden om Kina. Så hvis du og de andre arrangører evt syntes, at det var interessant, kan jeg godt lave et lille oplæg, der kan fungere som en slags 'starterpack' til hvordan man udforsker genren mht film, tv-serier og bøger.",
+    "desc": "Kinesisk fantasy, som er ved at blive mere populært. Især kinesisk queer fantasy, den såkaldte danmei, kan nu købes herhjemme i engelsk oversættelse, selv bibliotekerne køber det ind. Det virker dog stadig til at være en genre,som ikke er særlig kendt i Danmark,men Jasmin Hansen har et oplæg, der kan fungere som en slags 'starterpack' til hvordan man udforsker genren mht film, tv-serier og bøger.",
     "format": "Foredrag",
     "id": "Kinesisk fantasy",
     "loc": [
@@ -312,21 +347,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "Workshop",
-    "id": "Workshop: Reading Journals",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "11:00",
-    "title": "Workshop: Reading Journals"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
+    "desc": "A panel on this years Hugo Nominations. The well read panel will discuss this years nominated short stories, novellettes and novels, and they might even recommend one or two.",
     "format": "Panel",
     "id": "De hugo-nominerede 2026",
     "loc": [
@@ -361,17 +382,30 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Adaptations - from media to another ",
+    "desc": "Hvordan fanger man det originale værk og hvad vælger man fra og til. Kan det blive bedre af at komme længere væk?",
+    "format": "Panel",
+    "id": "Adaptations - from one medium to another",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Tue",
+        "name": "Tue"
+      },
+      {
+        "id": "Maria",
+        "name": "Maria"
+      },
+      {
+        "id": "Asta",
+        "name": "Asta"
+      }
+    ],
     "tags": [],
     "time": "10:00",
-    "title": "Adaptations - from media to another "
+    "title": "Adaptations - from one medium to another"
   },
   {
     "date": "2026-06-07",
@@ -417,78 +451,26 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": " “How to Marry a Witch”.\nThe show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts .\n\n",
     "format": "",
-    "id": "Marry A Witch (Multimedie)",
+    "id": "How to Marry A Witch",
     "loc": [
       "Store sal (3. sal)"
     ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "18:00",
-    "title": "Marry A Witch (Multimedie)"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "Troldmanden Merlin bringer sin legendariske podcast til Fantasticon i København, og med ham følger et mageløst monopol af mytiske skikkelser. Som altid er de klar til at diskutere storslåede dilemmaer involverende mord, affærer med guder og akavede dobbeltbookinger. Kom med til et underholdende liveshow, hvor publikum også inddrages til at give deres holdning til nogle af de præsenterede dilemmaer.\nDette afsnit bliver endda en crossover med programmet Kh Kærlighedens Gudinder samt dets skønne værtinder, gudinderne Freja og Afrodite. De vil bringe al den charme og sladder, som de er kendt for, med sig til Fantasticon. Til at runde dagens monopol af har vi selveste helgenen Sankt Valentin og ikke mindst dragen/stilikonet Zwei Zweiwich, bedre kendt som supermodellen Z eller “drage daddy”.\nSå sæt kryds i kalenderen og glæd dig til den helt store omgang mytologiske løjer og guddommelig sladder!\n",
-    "format": "Publikumsaktivitet",
-    "id": "Merlin og Monopolet - dilemmaer i fantasyland",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
+    "mins": "90",
     "people": [
       {
-        "id": "Valdemar Lenschow",
-        "name": "Valdemar Lenschow"
+        "id": "Anton Binder",
+        "name": "Anton Binder"
+      },
+      {
+        "id": "Sally A. Ward",
+        "name": "Sally A. Ward"
       }
     ],
     "tags": [],
-    "time": "18:00",
-    "title": "Merlin og Monopolet - dilemmaer i fantasyland"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Spil",
-    "loc": [
-      "Mødelokale (2. sal)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "18:00",
-    "title": "Spil"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Meetup",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "18:00",
-    "title": "Meetup"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Marry A Witch (Multimedie)",
-    "loc": [
-      "Store sal (3. sal)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
     "time": "17:00",
-    "title": "Marry A Witch (Multimedie)"
+    "title": "How to Marry A Witch"
   },
   {
     "date": "2026-06-06",
@@ -498,7 +480,7 @@
     "loc": [
       "Lille sal (Stuen)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [
       {
         "id": "Valdemar Lenschow",
@@ -517,7 +499,7 @@
     "loc": [
       "Mødelokale (2. sal)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [],
     "tags": [],
     "time": "17:00",
@@ -531,7 +513,7 @@
     "loc": [
       "Mødelokale (Stuen)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [],
     "tags": [],
     "time": "17:00",
@@ -541,20 +523,39 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Auktion (Klaus Æ Mogensen)",
+    "id": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS",
     "loc": [
-      "Store sal (3. sal)"
+      "Biblioteket"
     ],
-    "mins": "45",
+    "mins": "30",
     "people": [],
     "tags": [],
     "time": "16:00",
-    "title": "Auktion (Klaus Æ Mogensen)"
+    "title": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS"
   },
   {
     "date": "2026-06-06",
     "desc": "",
     "format": "",
+    "id": "Auktion",
+    "loc": [
+      "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [
+      {
+        "id": "Klaus Æ Mogensen",
+        "name": "Klaus Æ Mogensen"
+      }
+    ],
+    "tags": [],
+    "time": "16:00",
+    "title": "Auktion"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
+    "format": "Panel",
     "id": "We ❤️ Fantasy",
     "loc": [
       "Lille sal (Stuen)"
@@ -569,43 +570,61 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Præsentation af årsantologien Planlagt Forældelse ved Redaktør Rene og udvalgte forfattere (langt slot)",
+    "id": "Coffee with Eugenia Triantafyllou",
     "loc": [
-      "Biblioteket"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "16:00",
-    "title": "Præsentation af årsantologien Planlagt Forældelse ved Redaktør Rene og udvalgte forfattere (langt slot)"
+    "title": "Coffee with Eugenia Triantafyllou"
   },
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": "Interview with Sarah Pinsker med ",
+    "format": "Interview",
+    "id": "Interview with Sarah Pinsker",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
+      },
+      {
+        "id": "Niels Dalgaard",
+        "name": "Niels Dalgaard"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": "Interview with Sarah Pinsker med "
+    "title": "Interview with Sarah Pinsker"
   },
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": " Samtale om oversættelse af Fantatisk litteratur",
+    "format": "Interview",
+    "id": "Samtale om oversættelse af Fantatisk litteratur",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Jakob Levinsen",
+        "name": "Jakob Levinsen"
+      },
+      {
+        "id": "Stig W Jørgensen",
+        "name": "Stig W Jørgensen"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": " Samtale om oversættelse af Fantatisk litteratur"
+    "title": "Samtale om oversættelse af Fantatisk litteratur"
   },
   {
     "date": "2026-06-06",
@@ -623,23 +642,9 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "High-Fidelphias novellesamling - Cato",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "15:00",
-    "title": "High-Fidelphias novellesamling - Cato"
-  },
-  {
-    "date": "2026-06-06",
     "desc": "Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker. Jeg tror de kommer til at have brug for en til at stille \"dumme\" spørgsmål",
     "format": "Panel",
-    "id": "Arthurmyterne i litteraturen ",
+    "id": "Arthurmyterne i litteraturen",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -656,31 +661,18 @@
     ],
     "tags": [],
     "time": "14:00",
-    "title": "Arthurmyterne i litteraturen "
+    "title": "Arthurmyterne i litteraturen"
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Et panel om vores kærlighed til genren fantasy, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",
     "format": "Panel",
     "id": "Vi🫀Horror",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [
-      {
-        "id": "karsten brandt-knudsen deltager! Et panel om vores kærlighed til genren fantasy",
-        "name": "karsten brandt-knudsen deltager! Et panel om vores kærlighed til genren fantasy"
-      },
-      {
-        "id": "vi snakker om alt fra film til bøger til musik",
-        "name": "vi snakker om alt fra film til bøger til musik"
-      },
-      {
-        "id": "og hvorfor vi elsker netop den genre.",
-        "name": "og hvorfor vi elsker netop den genre."
-      }
-    ],
+    "people": [],
     "tags": [],
     "time": "14:00",
     "title": "Vi🫀Horror"
@@ -689,7 +681,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Kaffe med Chris Beckett",
+    "id": "Coffee with Chris Beckett",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -697,35 +689,38 @@
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "Kaffe med Chris Beckett"
+    "title": "Coffee with Chris Beckett"
   },
   {
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Fjerde oplag af Fluffy - hvorfor er katte i SF så populære? (Lise og Niels)",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "14:00",
-    "title": "Fjerde oplag af Fluffy - hvorfor er katte i SF så populære? (Lise og Niels)"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Worldbuilding in Short Fiction (GoH)",
+    "id": "Worldbuilding in Short Fiction",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
+      },
+      {
+        "id": "Chris Beckett",
+        "name": "Chris Beckett"
+      },
+      {
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
+      },
+      {
+        "id": "Flemming Rasch (m)",
+        "name": "Flemming Rasch (m)"
+      }
+    ],
     "tags": [],
     "time": "13:00",
-    "title": "Worldbuilding in Short Fiction (GoH)"
+    "title": "Worldbuilding in Short Fiction"
   },
   {
     "date": "2026-06-06",
@@ -750,15 +745,15 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Knud Larn interviewer Jasmin Hansens novellesamling BREVET",
+    "id": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
     "loc": [
       "Biblioteket"
     ],
-    "mins": "45",
+    "mins": "30",
     "people": [],
     "tags": [],
-    "time": "13:00",
-    "title": "Knud Larn interviewer Jasmin Hansens novellesamling BREVET"
+    "time": "12:00",
+    "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
   },
   {
     "date": "2026-06-06",
@@ -786,34 +781,69 @@
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": "Tamora Pierces forfatterskab ",
+    "format": "Panel",
+    "id": "Tamora Pierces forfatterskab",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Ella Stoltze",
+        "name": "Sarah Ella Stoltze"
+      },
+      {
+        "id": "Mariane Mide",
+        "name": "Mariane Mide"
+      },
+      {
+        "id": "Sidsel Pedersen (M)",
+        "name": "Sidsel Pedersen (M)"
+      },
+      {
+        "id": "Lea Thume",
+        "name": "Lea Thume"
+      },
+      {
+        "id": "Sidsel Sander Mittet.",
+        "name": "Sidsel Sander Mittet."
+      }
+    ],
     "tags": [],
     "time": "12:00",
-    "title": "Tamora Pierces forfatterskab "
+    "title": "Tamora Pierces forfatterskab"
   },
   {
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Niels præsenterer antologien Ukendte Kræfter",
+    "id": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
     "loc": [
       "Biblioteket"
     ],
-    "mins": "45",
+    "mins": "30",
     "people": [],
     "tags": [],
-    "time": "12:00",
-    "title": "Niels præsenterer antologien Ukendte Kræfter"
+    "time": "11:30",
+    "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
   },
   {
     "date": "2026-06-06",
     "desc": "",
+    "format": "",
+    "id": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "A discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.\n\n\nBios:\nPernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.\n\nClaire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is \"The Hollow Age,\" which can be found here: https://authorclaire.com/as-cathryn-bankroft/\n\nJane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus\n",
     "format": "Panel",
     "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
     "loc": [
@@ -840,7 +870,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Talk mellem forfatter Nanna Grønbech Petersen og musiker bÆnji om tekstskrivning, processer, kreativitet og inspirationer.",
     "format": "",
     "id": "Tekstskrivning, processer, kreativitet og inspirationer.",
     "loc": [
@@ -879,21 +909,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Niels E Nielsens noveller - hans comeback? Nu i andet oplag... (Niels)",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "11:00",
-    "title": "Niels E Nielsens noveller - hans comeback? Nu i andet oplag... (Niels)"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Velkommen - plus introduktion til æresgæster",
+    "id": "Velkommen JRJ - plus introduktion til æresgæster - FR",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -901,7 +917,7 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Velkommen - plus introduktion til æresgæster"
+    "title": "Velkommen JRJ - plus introduktion til æresgæster - FR"
   },
   {
     "date": "2026-06-06",
